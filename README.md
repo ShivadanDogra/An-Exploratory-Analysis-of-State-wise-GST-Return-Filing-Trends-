@@ -1,1 +1,2 @@
 # An-Exploratory-Analysis-of-State-wise-GST-Return-Filing-Trends-
+The Goods and Services Tax (GST) is a major indirect tax reform in India, and monitoring return filing behaviour provides key insights into taxpayer compliance, state-wise economic activity, and demographic engagement with the taxation system. This report presents a structured exploratory analysis of GST return filings during the fiscal year 2017–18, based on a merged dataset combining return data with demographic indicators such as total, urban, and rural populations.
